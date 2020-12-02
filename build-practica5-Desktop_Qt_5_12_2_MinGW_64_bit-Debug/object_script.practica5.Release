@@ -1,0 +1,14 @@
+release/enemy.o
+release/health.o
+release/laberinto.o
+release/main.o
+release/mainwindow.o
+release/monedas.o
+release/personajes.o
+release/score.o
+release/qrc_Recursos.o
+release/moc_enemy.o
+release/moc_laberinto.o
+release/moc_mainwindow.o
+release/moc_monedas.o
+release/moc_personajes.o

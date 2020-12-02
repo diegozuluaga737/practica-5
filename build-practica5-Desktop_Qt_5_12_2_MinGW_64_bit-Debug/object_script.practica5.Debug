@@ -1,0 +1,14 @@
+debug/enemy.o
+debug/health.o
+debug/laberinto.o
+debug/main.o
+debug/mainwindow.o
+debug/monedas.o
+debug/personajes.o
+debug/score.o
+debug/qrc_Recursos.o
+debug/moc_enemy.o
+debug/moc_laberinto.o
+debug/moc_mainwindow.o
+debug/moc_monedas.o
+debug/moc_personajes.o

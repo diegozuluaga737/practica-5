@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/mapa pacman.png</file>
+        <file>imagenes/PACMAN.png</file>
+        <file>imagenes/PACMAN_opt.png</file>
+        <file>imagenes/PACMAN_opt (1).png</file>
+        <file>imagenes/PACMAN_opt (2).png</file>
+        <file>imagenes/red-Ghosts_opt.png</file>
+        <file>imagenes/mapa3.jpg</file>
+        <file>imagenes/concrete-1646788_1280.jpg</file>
+        <file>imagenes/concrete.png</file>
+    </qresource>
+</RCC>
